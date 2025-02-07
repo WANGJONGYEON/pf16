@@ -1,0 +1,27 @@
+.default {
+    padding: 104px 0;
+}
+
+.inner {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+.default title {
+    margin-bottom: 32px;
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+/* .default h2 {
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+} */
+
+.default .desc {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 16px;
+}
