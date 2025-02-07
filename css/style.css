@@ -118,7 +118,7 @@
 
     .header h1 img {
         margin: 0 16px;
-        height: 40px;
+        height: 32px;
     }
 
     .header .gnb {
@@ -575,7 +575,7 @@
     }
 
     .main_news span {
-        font-size: 5vw;
+        font-size: 4vw;
         font-weight: 400;
         /* r */
         display: block;
@@ -584,7 +584,7 @@
 
     .main_news strong {
         display: block;
-        font-size: 7vw;
+        font-size: 6vw;
         font-weight: 600;
         transform: translate(0, -20%);
         color: #ff8352;
@@ -834,6 +834,9 @@
     left: 40%;
     transform: translate(-50%, 0);
     margin: 0 8px;
+    /* r */
+
+
 }
 
 .main_box .main_box_slide h2 {
@@ -955,17 +958,21 @@
         left: 40%;
         transform: translate(-50%, 0);
         margin: 0 8px;
+
+        /* r */
+        margin: 0 16px;
+
     }
 
     .main_box .main_box_slide h2 {
-        font-size: 20px;
+        font-size: 4vw;
         font-weight: 600;
         color: #333;
         padding-top: 24px;
     }
 
     .main_box .main_box_slide p {
-        font-size: 32px;
+        font-size: 6vw;
         font-weight: 600;
         color: #ff8352;
         margin-top: 16px;
@@ -973,7 +980,7 @@
 
     .main_box .main_box_slide .txt_box i {
         display: block;
-        font-size: 20px;
+        font-size: 5vw;
         font-weight: 600;
         color: #333;
         margin-top: 8px;
